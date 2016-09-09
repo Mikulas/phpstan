@@ -17,6 +17,7 @@ class FunctionDefinitionCheck
 		'int',
 		'bool',
 		'float',
+		'void',
 	];
 
 	/**
